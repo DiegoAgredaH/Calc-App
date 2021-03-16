@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "calc-app-disampa",
+    "react-calculator": "calc-app-disampa"
+  }
+}
